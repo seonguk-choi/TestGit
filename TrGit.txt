@@ -1,1 +1,1 @@
-Scanner sc = new Scanner
+int a = 10;
