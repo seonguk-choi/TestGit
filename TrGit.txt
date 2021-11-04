@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 Scanner sc = new Scanner
+=======
+최성욱
+잘하고 있어
+진짜 잘하고 있어
+멋지다
+>>>>>>> origin/test
