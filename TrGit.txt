@@ -1,1 +1,1 @@
-abcd
+Scanner sc = new Scanner
