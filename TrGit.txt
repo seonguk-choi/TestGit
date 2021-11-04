@@ -1,5 +1,14 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+=======
+>>>>>>> abcd
+<<<<<<< HEAD
+<<<<<<< HEAD
+int a = 10;
+=======
+abcd
+>>>>>>> origin/abr
+=======
 Scanner sc = new Scanner
 =======
 최성욱
@@ -7,6 +16,10 @@ Scanner sc = new Scanner
 진짜 잘하고 있어
 멋지다
 >>>>>>> origin/test
+<<<<<<< HEAD
 =======
 int a = 10;
 >>>>>>> e7743448bf6f58b5562b254787a31a4cc5d58a06
+=======
+>>>>>>> efgh
+>>>>>>> abcd
